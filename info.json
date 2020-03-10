@@ -1,0 +1,11 @@
+{
+    "name": "Ariamis",
+    "version": "0.1.0",
+    "title": "Ariamis",
+    "author": "knighty",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.18",
+    "dependencies": ["base >= 0.18", "alien-biomes >= 0.5.1"],
+    "description": "Adds a terrain editor to the game"
+}
